@@ -1,10 +1,12 @@
 # Green Hydrogen Project Feasibility Analyzer 🌱⚡
 
-## Frontend UI Dashboard
+## 📸 Project Screenshots
 
-### Screenshot (Preview)
+### Landing Page
+![Landing Page](landing_page.jpg)
 
-![UI Dashboard](ui_dashboard.jpg)
+### Interactive Dashboard
+![Dashboard](dashboard.jpg)
 
 ---
 
