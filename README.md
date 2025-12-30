@@ -706,9 +706,6 @@ The UI is a single-page application (SPA) with a multi-panel layout optimized fo
 - Clean, minimal design
 
 ---
-
-## The Technical Journey: How We Built This 🛤️
-
 ### Day 1: Problem Definition & Research
 - Identified the problem: No centralized tool for green hydrogen site selection
 - Researched data sources (spent hours finding and downloading CSVs)
